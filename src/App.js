@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            Fixed the docker-compose.yml file with stdin_open param
+            I was changed again in the Feature Branch. Fixed the docker-compose.yml file with stdin_open param
         </p>
         <a
           className="App-link"
